@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AKSHAT ANAND
 - 👀 I’m interested in crazy stuffs
-- 🌱 I’m currently learning B.Tech CSE.
+- 🌱 I’m currently learning as well as working in different programming languages.
 
 
 <!---
